@@ -30,14 +30,13 @@ The system provides structured database integration and an interactive interface
 ## 🛠 Tech Stack
 
 Frontend:
-- HTML
+- React
 - CSS
 - Tailwind CSS
 - Vite
 
 Backend / Database:
 - Supabase
-- PostgreSQL (SQL)
 
 Tools:
 - Node.js
