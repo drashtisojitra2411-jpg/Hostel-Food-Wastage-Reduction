@@ -40,7 +40,6 @@ Backend / Database:
 
 Tools:
 - Node.js
-- Git & GitHub
 
 ---
 
